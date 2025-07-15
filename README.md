@@ -1,4 +1,4 @@
-# BHEL Ticket Problem Management System 🎫
+<img width="1336" height="688" alt="Screenshot 2025-07-09 191941" src="https://github.com/user-attachments/assets/8ea65d30-9eb9-4610-b4f9-cb2d9feb7fab" /># BHEL Ticket Problem Management System 🎫
 
 This project was developed during my internship at Bharat Heavy Electricals Limited (BHEL) to simplify and digitalize internal ticket/complaint handling using a web-based solution.
 
@@ -25,6 +25,6 @@ This project was developed during my internship at Bharat Heavy Electricals Limi
 ## 📸 Screenshots
 _Add screenshots of login, home page, and admin dashboard_
 
----
+
 
 🎓 Developed as part of internship project at **BHEL**.
